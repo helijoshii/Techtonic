@@ -21,7 +21,7 @@ const Cards = ({ image, title, lessons, hours, description }) => {
         {description}
         </p>
       </div>
-    </div>
+    </div>  
     </div>
   );
 };
